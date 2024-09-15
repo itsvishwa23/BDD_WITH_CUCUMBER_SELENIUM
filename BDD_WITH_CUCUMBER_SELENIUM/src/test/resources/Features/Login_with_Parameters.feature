@@ -1,4 +1,4 @@
-Feature: User login functionality
+Feature: Login functionality
 
   Scenario Outline: Successful login with valid credentials
     Given I am on the login page
